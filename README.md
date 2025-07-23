@@ -1,23 +1,204 @@
-# 👋 Hi there! I'm Dzakwan Alifi
+<!-- 
+Hi! You've found the code for my GitHub profile. I've designed this based on a "Product-First" philosophy, aiming to showcase real-world impact and end-to-end building capabilities.
+Feel free to take inspiration from it for your own profile!
+-->
 
-# 💫 About Me:
-📚 About Me: I'm currently a dedicated freshman at IPB University, pursuing a Bachelor's degree in Statistics and Data Science. With a keen interest in data science, machine learning, and graphic design, I'm always eager to learn and explore new horizons. My journey so far has been a blend of academic excellence and a strong desire to apply my knowledge practically.<br><br>📈 Data Science & Machine Learning: As a budding data scientist, I'm fascinated by the power of data and its potential to transform industries. I'm constantly exploring new techniques in machine learning and data analysis to refine my skills and contribute to innovative projects.<br><br>🌟 What I'm Seeking: I'm on the lookout for opportunities that challenge me and help me grow. Internships, collaborative projects, or volunteer work – I'm ready to dive in and make a significant impact.<br><br>🔍 Explore My Work: Feel free to browse through my repositories to see my projects and contributions. I'm always open to feedback and collaboration.<br><br>📫 Get in Touch: If you're interested in connecting, discussing potential projects, or just want to say hi, reach out to me!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&pause=1000&color=00D9F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Dzakwan+Alifi+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+### AI Engineer & Full-Stack Builder
+**Statistics & Data Science Student at IPB University**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dzakwanalifi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dzakwanalifi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dzakwanalifi) 
+</div>
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dzakwanalifi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dzakwanalifi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakwanalifi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I architect and ship end-to-end AI systems that bridge technological potential with human needs. From ideation and system design to cloud deployment, I specialize in transforming complex problems into impactful, user-centric applications using Generative AI, Python, and modern full-stack technologies.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dzakwanalifi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="https://linkedin.com/in/dzakwanalifi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mdzakwanalifi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dzakwanalifi&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+Here are some of the key projects I've built, showcasing my skills in AI engineering, full-stack development, and cloud deployment.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">kenallebih.com - Full-Stack Generative AI Web App</h3>
+      <div align="center">
+        <a href="https://kenallebih.com" target="_blank">
+          <!-- IMPORTANT: Replace this placeholder with a real screenshot or GIF of your project -->
+          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="kenallebih.com Demo" width="400">
+        </a>
+        <p>
+          <a href="https://kenallebih.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-43CC34?style=for-the-badge&logo=Live&logoColor=white">
+          </a>
+          <a href="https://github.com/dzakwanalifi/KenalLebih-App" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </div>
+      <details>
+        <summary><strong>The Challenge & My Solution</strong></summary>
+        <p><strong>Challenge:</strong> Addressing shallow, everyday conversations by creating a tool for deeper human connection.</p>
+        <p><strong>Solution:</strong> Architected and launched a full-stack application serving 1,400+ dynamic questions generated by the Google Gemini API. Integrated a Midtrans payment gateway and automated deployment with a full CI/CD pipeline on GCP (Cloud Build, Docker, Cloud Run).</p>
+      </details>
+      <details>
+        <summary><strong>Tech Stack</strong></summary>
+        <ul>
+          <li><strong>Frontend:</strong> SvelteKit, Tailwind CSS</li>
+          <li><strong>Backend:</strong> Node.js, Express</li>
+          <li><strong>AI:</strong> Google Gemini API</li>
+          <li><strong>Cloud/DevOps:</strong> GCP Cloud Run, Cloud Build, Docker, CI/CD</li>
+          <li><strong>Database:</strong> PostgreSQL</li>
+        </ul>
+      </details>
+    </td>
+    <td width="50%">
+      <h3 align="center">BISBI - AI-Powered English Learning Platform</h3>
+      <div align="center">
+        <a href="https://github.com/dzakwanalifi/BISBI-API" target="_blank">
+          <!-- IMPORTANT: Replace this placeholder with a real screenshot or GIF of your project -->
+          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="BISBI Demo" width="400">
+        </a>
+        <p>
+          <a href="https://github.com/dzakwanalifi/BISBI-API" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </div>
+      <details>
+        <summary><strong>🏆 Winner, Microsoft elevAIte Hackathon</strong></summary>
+        <p><strong>Challenge:</strong> Low English proficiency and the need for culturally relevant, accessible learning tools in Indonesia.</p>
+        <p><strong>Solution:</strong> Led AI engineering for a multi-feature learning MVP. Utilized Microsoft Azure AI Services (Vision for object translation, OpenAI for dialogues) and designed an interactive, gamified learning experience with built-in Azure AI Content Safety.</p>
+      </details>
+      <details>
+        <summary><strong>Tech Stack</strong></summary>
+        <ul>
+          <li><strong>AI:</strong> Azure AI Vision, Azure OpenAI Service</li>
+          <li><strong>Backend:</strong> Python (Flask)</li>
+          <li><strong>Cloud:</strong> Microsoft Azure Services</li>
+          <li><strong>Prototyping:</strong> Figma</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ZakatKuy - AI-Powered Zakat Processing App</h3>
+      <div align="center">
+        <a href="https://github.com/dzakwanalifi/dashboard-amil-zakatkuy" target="_blank">
+          <!-- IMPORTANT: Replace this placeholder with a real screenshot or GIF of your project -->
+          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="ZakatKuy Demo" width="400">
+        </a>
+        <p>
+          <a href="https://github.com/dzakwanalifi/dashboard-amil-zakatkuy" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </div>
+      <details>
+        <summary><strong>🏆 1st Place, Zakathon 2024</strong></summary>
+        <p><strong>Challenge:</strong> Inefficiencies and long transaction times in the traditional zakat collection and distribution process.</p>
+        <p><strong>Solution:</strong> Developed an AI application using Gemini for instant calculations and Whisper V3 for audio documentation. Created a national-level tracking dashboard. Enhanced zakat processing efficiency by 5x (from 10 mins to 2 mins).</p>
+      </details>
+      <details>
+        <summary><strong>Tech Stack</strong></summary>
+        <ul>
+          <li><strong>AI:</strong> Google Gemini API, OpenAI Whisper V3</li>
+          <li><strong>Backend:</strong> Python (Flask)</li>
+          <li><strong>Frontend:</strong> Streamlit (Dashboard)</li>
+          <li><strong>Tools:</strong> n8n for automation</li>
+        </ul>
+      </details>
+    </td>
+    <td width="50%">
+      <h3 align="center">AutoEPBM - University Form Automation Tool</h3>
+      <div align="center">
+        <a href="https://github.com/dzakwanalifi/AutoEPBM-App" target="_blank">
+          <!-- IMPORTANT: Replace this placeholder with a real screenshot or GIF of your project -->
+          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="AutoEPBM Demo" width="400">
+        </a>
+        <p>
+          <a href="https://github.com/dzakwanalifi/AutoEPBM-App" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </div>
+      <details>
+        <summary><strong>The Challenge & My Solution</strong></summary>
+        <p><strong>Challenge:</strong> The repetitive and time-consuming task of filling out end-of-semester evaluation forms for dozens of courses.</p>
+        <p><strong>Solution:</strong> Developed a Python desktop application using Selenium for browser automation and PyQt for the user interface. The tool automates the entire form-filling process, saving significant time for students at IPB University.</p>
+      </details>
+      <details>
+        <summary><strong>Tech Stack</strong></summary>
+        <ul>
+          <li><strong>Core:</strong> Python</li>
+          <li><strong>Automation:</strong> Selenium</li>
+          <li><strong>GUI:</strong> PyQt</li>
+          <li><strong>Packaging:</strong> PyInstaller</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
+
+## 🏆 Key Achievements & Awards
+
+I thrive in competitive, fast-paced environments. Here are some of my proudest achievements:
+
+| Award                                                  | Issuing Body                                  |
+| ------------------------------------------------------ | --------------------------------------------- |
+| **Winner, Microsoft Online Hackathon 2025**            | Microsoft, Dicoding & Kominfo                 |
+| **1st Place Winner, Zakathon 2024**                    | BAZNAS RI (National Zakat Agency)             |
+| **3rd Place Winner, SATRIA DATA 2024**                 | Puspresnas Kemendikbudristek (National Gov.)  |
+| **"Tech Innovator" Award (Top 3), 48h Challenge**      | Kominfo & German Embassy                      |
+| **Most Outstanding Student 2024**                      | School of DSMI, IPB University                |
+| **Awardee, Beasiswa Unggulan Bank Indonesia**          | Bank Indonesia (Central Bank Scholarship)     |
+
+## 💻 My Tech Stack
+
+### 🤖 AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-181717?style=for-the-badge&logo=LangChain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-1A0D3F?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 🌐 Full-Stack Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dzakwanalifi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Dzakwan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakwanalifi&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Dzakwan's Top Languages" />
+</p>
+
+---
+<div align="center">
+  <p>Let's connect and build something impactful together!</p>
+</div>
