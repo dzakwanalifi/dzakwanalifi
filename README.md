@@ -23,14 +23,14 @@ I architect and ship end-to-end AI systems that bridge technological potential w
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Production & Live Applications
 
-Here are some of the key projects I've built, showcasing my skills in AI engineering, full-stack development, and cloud deployment.
+These are fully deployed production applications, focused on real-world impact, high concurrency, and direct user value.
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Borang AI - Intelligent Form Automation</h3>
+      <h3 align="center">Borang AI - Survey & Form Automation</h3>
       <div align="center">
         <a href="https://borang.id" target="_blank">
           <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="Borang AI Demo" width="400">
@@ -58,36 +58,6 @@ Here are some of the key projects I've built, showcasing my skills in AI enginee
       </details>
     </td>
     <td width="50%">
-      <h3 align="center">FixVision AI - Agentic Repair Assistant</h3>
-      <div align="center">
-        <a href="https://github.com/dzakwanalifi/FixVision-AI" target="_blank">
-          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="FixVision AI Demo" width="400">
-        </a>
-        <p>
-          <a href="https://github.com/dzakwanalifi/FixVision-AI" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
-          </a>
-        </p>
-      </div>
-      <details>
-        <summary><strong>The Challenge & My Solution</strong></summary>
-        <p><strong>Challenge:</strong> Diagnosing broken hardware devices and electronics from visual cues is difficult for average users.</p>
-        <p><strong>Solution:</strong> Engineered an AI-powered visual assistant implementing a "Think-Search-Act" loop using Gemini 2.5 Flash-Lite and Google Search Grounding. Features server-side image annotation and automated step-by-step troubleshooting guide generation.</p>
-      </details>
-      <details>
-        <summary><strong>Tech Stack</strong></summary>
-        <ul>
-          <li><strong>Frontend:</strong> Next.js 16, React 19</li>
-          <li><strong>Runtime:</strong> Bun</li>
-          <li><strong>AI:</strong> Google Gemini 2.5 Flash-Lite & Search Grounding</li>
-          <li><strong>Image Processing:</strong> Sharp.js</li>
-          <li><strong>Cloud:</strong> Google Cloud Run</li>
-        </ul>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">kenallebih.com - AI Deep Talk Platform</h3>
       <div align="center">
         <a href="https://kenallebih.com" target="_blank">
@@ -112,6 +82,77 @@ Here are some of the key projects I've built, showcasing my skills in AI enginee
           <li><strong>AI:</strong> Google Gemini API</li>
           <li><strong>Cloud/DevOps:</strong> GCP Cloud Run, Cloud Build, Docker, CI/CD</li>
           <li><strong>Database:</strong> PostgreSQL</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Coret.in - Real-Time AI Pictionary</h3>
+      <div align="center">
+        <a href="https://coretin.tek.web.id" target="_blank">
+          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="Coret.in Demo" width="400">
+        </a>
+        <p>
+          <a href="https://coretin.tek.web.id" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-43CC34?style=for-the-badge&logo=Live&logoColor=white">
+          </a>
+        </p>
+      </div>
+      <details>
+        <summary><strong>The Challenge & My Solution</strong></summary>
+        <p><strong>Challenge:</strong> Developing high-performance, real-time multiplayer web games with fast visual AI evaluations on a budget.</p>
+        <p><strong>Solution:</strong> Built a real-time multiplayer AI Pictionary game featuring "Si Kepo" (AI Vision). Handled 50+ concurrent real-time game sessions and optimized visual AI inference to achieve high accuracy at under $1 in overall operational costs.</p>
+      </details>
+      <details>
+        <summary><strong>Tech Stack</strong></summary>
+        <ul>
+          <li><strong>Frontend:</strong> Next.js 15, React, Tailwind CSS</li>
+          <li><strong>Real-Time:</strong> Socket.io</li>
+          <li><strong>Database & Auth:</strong> Firebase</li>
+          <li><strong>AI:</strong> Gemini Vision API</li>
+        </ul>
+      </details>
+    </td>
+    <td width="50%">
+      <!-- Placeholder for future live app or alignment -->
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Open Source & Public Projects
+
+These projects have public source code repositories, showcasing architecture design, engineering patterns, and clean code principles.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">FixVision AI - Agentic Repair Assistant</h3>
+      <div align="center">
+        <a href="https://github.com/dzakwanalifi/FixVision-AI" target="_blank">
+          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="FixVision AI Demo" width="400">
+        </a>
+        <p>
+          <a href="https://github.com/dzakwanalifi/FixVision-AI" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </div>
+      <details>
+        <summary><strong>The Challenge & My Solution</strong></summary>
+        <p><strong>Challenge:</strong> Diagnosing broken hardware devices and electronics from visual cues is difficult for average users.</p>
+        <p><strong>Solution:</strong> Engineered an AI-powered visual assistant implementing a "Think-Search-Act" loop using Gemini 2.5 Flash-Lite and Google Search Grounding. Features server-side image annotation and automated step-by-step troubleshooting guide generation.</p>
+      </details>
+      <details>
+        <summary><strong>Tech Stack</strong></summary>
+        <ul>
+          <li><strong>Frontend:</strong> Next.js 16, React 19</li>
+          <li><strong>Runtime:</strong> Bun</li>
+          <li><strong>AI:</strong> Google Gemini 2.5 Flash-Lite & Search Grounding</li>
+          <li><strong>Image Processing:</strong> Sharp.js</li>
+          <li><strong>Cloud:</strong> Google Cloud Run</li>
         </ul>
       </details>
     </td>
@@ -172,29 +213,83 @@ Here are some of the key projects I've built, showcasing my skills in AI enginee
       </details>
     </td>
     <td width="50%">
-      <h3 align="center">Coret.in - Real-Time AI Pictionary</h3>
+      <h3 align="center">AutoEPBM App - Form Auto-Filler</h3>
       <div align="center">
-        <a href="https://coretin.tek.web.id" target="_blank">
-          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="Coret.in Demo" width="400">
+        <a href="https://github.com/dzakwanalifi/AutoEPBM-App" target="_blank">
+          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="AutoEPBM App Demo" width="400">
         </a>
         <p>
-          <a href="https://coretin.tek.web.id" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-43CC34?style=for-the-badge&logo=Live&logoColor=white">
+          <a href="https://github.com/dzakwanalifi/AutoEPBM-App" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </p>
       </div>
       <details>
         <summary><strong>The Challenge & My Solution</strong></summary>
-        <p><strong>Challenge:</strong> Developing high-performance, real-time multiplayer web games with fast visual AI evaluations on a budget.</p>
-        <p><strong>Solution:</strong> Built a real-time multiplayer AI Pictionary game featuring "Si Kepo" (AI Vision). Handled 50+ concurrent real-time game sessions and optimized visual AI inference to achieve high accuracy at under $1 in overall operational costs.</p>
+        <p><strong>Challenge:</strong> Repetitive and time-consuming filling of end-of-semester evaluation forms for university courses.</p>
+        <p><strong>Solution:</strong> Developed a Python desktop application using Selenium for browser automation and PyQt for the user interface, saving students significant manual entry time.</p>
       </details>
       <details>
         <summary><strong>Tech Stack</strong></summary>
         <ul>
-          <li><strong>Frontend:</strong> Next.js 15, React, Tailwind CSS</li>
-          <li><strong>Real-Time:</strong> Socket.io</li>
-          <li><strong>Database & Auth:</strong> Firebase</li>
-          <li><strong>AI:</strong> Gemini Vision API</li>
+          <li><strong>Core:</strong> Python</li>
+          <li><strong>Automation:</strong> Selenium</li>
+          <li><strong>GUI:</strong> PyQt</li>
+          <li><strong>Packaging:</strong> PyInstaller</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">stadata-x - BPS Terminal Explorer</h3>
+      <div align="center">
+        <a href="https://github.com/dzakwanalifi/stadata-x" target="_blank">
+          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="stadata-x Demo" width="400">
+        </a>
+        <p>
+          <a href="https://github.com/dzakwanalifi/stadata-x" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </div>
+      <details>
+        <summary><strong>The Challenge & My Solution</strong></summary>
+        <p><strong>Challenge:</strong> Accessing and downloading open statistics data from Indonesia's BPS efficiently without complex portal navigation.</p>
+        <p><strong>Solution:</strong> Created a lightweight, interactive Terminal User Interface (TUI) tool using Python to streamline exploration and bulk downloading of BPS datasets directly from the command line.</p>
+      </details>
+      <details>
+        <summary><strong>Tech Stack</strong></summary>
+        <ul>
+          <li><strong>Core:</strong> Python</li>
+          <li><strong>TUI Framework:</strong> Textual</li>
+          <li><strong>APIs:</strong> BPS Open Data API</li>
+        </ul>
+      </details>
+    </td>
+    <td width="50%">
+      <h3 align="center">KAI Scraper API - Booking Automation</h3>
+      <div align="center">
+        <a href="https://github.com/dzakwanalifi/KAI-Scraper-API" target="_blank">
+          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="KAI Scraper Demo" width="400">
+        </a>
+        <p>
+          <a href="https://github.com/dzakwanalifi/KAI-Scraper-API" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </div>
+      <details>
+        <summary><strong>The Challenge & My Solution</strong></summary>
+        <p><strong>Challenge:</strong> Fetching real-time ticket availability from train ticketing systems programmatically with bypass security layers.</p>
+        <p><strong>Solution:</strong> Developed a high-performance scraping API featuring intelligent caching (TTL 15 min) and request routing to handle 30 req/min with 99.9% uptime.</p>
+      </details>
+      <details>
+        <summary><strong>Tech Stack</strong></summary>
+        <ul>
+          <li><strong>Core:</strong> Python (FastAPI)</li>
+          <li><strong>Scraping:</strong> Cloudscraper</li>
+          <li><strong>Containerization:</strong> Docker</li>
         </ul>
       </details>
     </td>
