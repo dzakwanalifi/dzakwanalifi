@@ -97,9 +97,6 @@ Here are some of the key projects I've built, showcasing my skills in AI enginee
           <a href="https://kenallebih.com" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-43CC34?style=for-the-badge&logo=Live&logoColor=white">
           </a>
-          <a href="https://github.com/dzakwanalifi/KenalLebih-App" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
-          </a>
         </p>
       </div>
       <details>
