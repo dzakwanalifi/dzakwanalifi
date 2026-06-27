@@ -86,38 +86,6 @@ These are fully deployed production applications, focused on real-world impact, 
       </details>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Coret.in - Real-Time AI Pictionary</h3>
-      <div align="center">
-        <a href="https://coretin.tek.web.id" target="_blank">
-          <img src="https://user-images.githubusercontent.com/99184393/233875323-5e482273-2895-4bb5-8603-24eda2738872.gif" alt="Coret.in Demo" width="400">
-        </a>
-        <p>
-          <a href="https://coretin.tek.web.id" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-43CC34?style=for-the-badge&logo=Live&logoColor=white">
-          </a>
-        </p>
-      </div>
-      <details>
-        <summary><strong>The Challenge & My Solution</strong></summary>
-        <p><strong>Challenge:</strong> Developing high-performance, real-time multiplayer web games with fast visual AI evaluations on a budget.</p>
-        <p><strong>Solution:</strong> Built a real-time multiplayer AI Pictionary game featuring "Si Kepo" (AI Vision). Handled 50+ concurrent real-time game sessions and optimized visual AI inference to achieve high accuracy at under $1 in overall operational costs.</p>
-      </details>
-      <details>
-        <summary><strong>Tech Stack</strong></summary>
-        <ul>
-          <li><strong>Frontend:</strong> Next.js 15, React, Tailwind CSS</li>
-          <li><strong>Real-Time:</strong> Socket.io</li>
-          <li><strong>Database & Auth:</strong> Firebase</li>
-          <li><strong>AI:</strong> Gemini Vision API</li>
-        </ul>
-      </details>
-    </td>
-    <td width="50%">
-      <!-- Placeholder for future live app or alignment -->
-    </td>
-  </tr>
 </table>
 
 ---
