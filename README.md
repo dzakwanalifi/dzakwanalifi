@@ -282,11 +282,17 @@ I thrive in competitive, fast-paced environments. Here are some of my proudest a
 ### 🤖 AI, Machine Learning & Agentic Systems
 ![LangGraph](https://img.shields.io/badge/LangGraph-181717?style=for-the-badge&logo=LangChain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-181717?style=for-the-badge&logo=LangChain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-070707?style=for-the-badge&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-orange?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🔍 AI Observability & Evaluation
+![LangSmith](https://img.shields.io/badge/LangSmith-00D9F7?style=for-the-badge&logo=LangChain&logoColor=black)
+![Langfuse](https://img.shields.io/badge/Langfuse-black?style=for-the-badge&logo=github&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -305,9 +311,10 @@ I thrive in competitive, fast-paced environments. Here are some of my proudest a
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-%23E36002.svg?style=for-the-badge&logo=hono&logoColor=white)
 
-### 🗄️ Databases & Caching
+### 🗄️ Databases, Vector Search & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-red?style=for-the-badge&logo=qdrant&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
