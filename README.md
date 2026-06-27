@@ -6,7 +6,7 @@ Feel free to take inspiration from it for your own profile!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&pause=1000&color=00D9F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Dzakwan+Alifi+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### AI Engineer & Full-Stack Builder
-**Statistics & Data Science Student at IPB University**
+**Statistics & Data Science Graduate from IPB University**
 
 </div>
 
@@ -308,8 +308,6 @@ I thrive in competitive, fast-paced environments. Here are some of my proudest a
 | **1st Place Winner, Zakathon 2024** | BAZNAS RI (National Zakat Agency) |
 | **1st Place Winner, Slashcom 2024** | UPN Veteran Jakarta |
 | **3rd Place Winner, SATRIA DATA 2024** | Puspresnas Kemendikbudristek (National Gov.) |
-| **Most Outstanding Student IPB 2025** | FMIPA & Department of Statistics, IPB University |
-| **Awardee, Beasiswa Unggulan Bank Indonesia** | Bank Indonesia (Central Bank Scholarship) |
 
 ## 💻 My Tech Stack
 
